@@ -2,5 +2,5 @@ pandas
 numpy
 matplotlib
 
-# trigger setup.py 
+# map and trigger setup.py 
 -e .
