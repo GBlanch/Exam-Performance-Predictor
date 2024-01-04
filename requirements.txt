@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+
+# trigger setup.py 
+-e .
