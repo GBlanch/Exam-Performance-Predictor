@@ -1,5 +1,5 @@
 ### Locally testing
-
+<br>
 
 <img align="center" src="https://github.com/GBlanch/Student-Performance-Predictor/blob/main/static%20assets/index.png">
 
