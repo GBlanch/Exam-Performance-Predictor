@@ -1,6 +1,6 @@
 (edition of main markdown in progress)
 
-### Locally testing
+_### Locally testing_
 
 
 <img align="center" src="https://github.com/GBlanch/Student-Performance-Predictor/blob/main/static%20assets/index.png">
