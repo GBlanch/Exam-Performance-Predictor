@@ -24,3 +24,6 @@ Once the main functionalities of the prediction app were satisfied with the loca
 &nbsp; 
 
 <img align="center" src="https://github.com/GBlanch/Student-Performance-Predictor/blob/main/static%20assets/beanstalk-environment.png">
+
+
+The repo with the EDA on the raw dataset and Model training developement can be found [here](https://github.com/GBlanch/Notebooks-for-Student-Performance-Predictor/tree/main)
