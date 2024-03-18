@@ -2,7 +2,7 @@ Work in progress
 
 ### Locally testing
 
-First, I developed my web app locally using a Conda environment to manage dependencies, libraries and packages and so ensure consistency without affecting other projects on my local machine.
+First off, I developed my web app locally using a Conda environment to manage dependencies, libraries and packages and so ensure consistency without affecting other projects on my local machine.
 
 Within this Conda environment, I built and tested my web app, ensuring it met my requirements and performed as expected.
 
